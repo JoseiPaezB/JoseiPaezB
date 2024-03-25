@@ -8,7 +8,7 @@ Currently I work with a department of my university where I mostly help with org
 
 I'm currently learning backend development mostly with databases and APIs. DBeaver is currently my favorite platform to work on this. 
 
-I love to write and read poetry about life and feelings, read sci-fi or dystopian books, listen and discover new music, watch movies, gaming and doing all type of activities like htting the gym, running, climbing and drawing. 
+I love to write and read poetry about life and feelings, read sci-fi or dystopian books, listen and discover new music, watch movies, gaming and doing all type of activities like hitting the gym, running, climbing and drawing. 
 
 
 
