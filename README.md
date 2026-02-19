@@ -1,6 +1,6 @@
 ### Hi there, Im Jose Ignacio👋
 
-I'm currently studying my third year in Tecnologico de Monterrey, the career of engineering in computer science. 
+I'm currently studying my last year in Tecnologico de Monterrey, the career of engineering in computer science. 
 
 I am very passionate about programming and exploring each language that I am learning. I recognize myself as a strong and frequent user of Python, Node.JS, JavaScript and C++. 
 
